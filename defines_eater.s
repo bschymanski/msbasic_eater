@@ -10,6 +10,9 @@ ZP_START2 = $0C
 ZP_START3 = $62
 ZP_START4 = $6D
 
+
+
+
 ; extra/override ZP variables
 USR := GORESTART
 
